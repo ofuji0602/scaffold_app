@@ -1,0 +1,11 @@
+current directory: /Users/fujiiryousuke/rails_workspace/runteq/genba_rails/scaffold_app/vendor/bundle/ruby/2.5.0/gems/io-wait-0.3.1/ext/io/wait
+/Users/fujiiryousuke/.rbenv/versions/2.5.1/bin/ruby -I /Users/fujiiryousuke/.rbenv/versions/2.5.1/lib/ruby/site_ruby/2.5.0 -r ./siteconf20231224-93296-1b8f2ar.rb extconf.rb
+
+current directory: /Users/fujiiryousuke/rails_workspace/runteq/genba_rails/scaffold_app/vendor/bundle/ruby/2.5.0/gems/io-wait-0.3.1/ext/io/wait
+make "DESTDIR=" clean
+
+current directory: /Users/fujiiryousuke/rails_workspace/runteq/genba_rails/scaffold_app/vendor/bundle/ruby/2.5.0/gems/io-wait-0.3.1/ext/io/wait
+make "DESTDIR="
+
+current directory: /Users/fujiiryousuke/rails_workspace/runteq/genba_rails/scaffold_app/vendor/bundle/ruby/2.5.0/gems/io-wait-0.3.1/ext/io/wait
+make "DESTDIR=" install
